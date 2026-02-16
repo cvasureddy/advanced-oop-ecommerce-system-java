@@ -1,2 +1,12 @@
-# advanced-oop-ecommerce-system-java
-Java Advanced OOP E-commerce System with Product Hierarchy, Shopping Cart, and Order Management.
+# Advanced OOP E-Commerce System (Java)
+
+Built by C. Vasu Reddy.
+
+Features:
+- Abstract Product hierarchy
+- Inheritance & Polymorphism
+- Shopping Cart
+- Order System
+- Package-based Architecture
+
+Run Main.java to start.
